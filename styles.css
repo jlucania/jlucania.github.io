@@ -34,22 +34,22 @@ a:hover{
   display: block; /* instead of flex */
 }
 .assign embed {
-  width: 200px;
+  width: 250px;
   margin: 10px;
   border: 2px solid midnightblue;
 }
 .assign embed:hover {
-  width: 200px;
+  width: 250px;
   margin: 10px;
   border: 2px dotted yellow;
 }
 .assign img {
-  width: 200px;
+  width: 250px;
   margin: 10px;
   border: 2px solid midnightblue;
 }
 .assign img:hover {
-  width: 200px;
+  width: 250px;
   margin: 10px;
   border: 2px dotted yellow;
 }
