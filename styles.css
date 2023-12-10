@@ -33,6 +33,16 @@ a:hover{
   box-shadow: 8px 8px brown;
   display: block; /* instead of flex */
 }
+.assign embed {
+  width: 200px;
+  margin: 10px;
+  border: 2px solid midnightblue;
+}
+.assign embed:hover {
+  width: 200px;
+  margin: 10px;
+  border: 2px dotted yellow;
+}
 .assign img {
   width: 200px;
   margin: 10px;
