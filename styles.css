@@ -5,13 +5,15 @@ body {
   flex-wrap: wrap;
 }
 h1 {
+  background-color: grey;
   color: maroon;
   text-align: center;
   width: 100%;
   display: block;
 }
 h1:hover {
-  color: grey;
+  background-color: grey;
+  color: midnightblue;
   text-align: center;
   width: 100%;
   display: block;
